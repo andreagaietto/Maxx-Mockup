@@ -7,11 +7,38 @@
 .title {
   font-family: 'Arimo', sans-serif;
   font-weight: lighter;
-  font-size: 24pt;
+  font-size: 28pt;
 }
 
 #footer {
   background-color: #3D3D3D;
   color: white;
   margin-top: 30px;
-} 
+  margin-bottom: 0px;
+}
+
+.row h2 {
+  font-family: 'Arimo', sans-serif;
+  font-weight: bold;
+  font-size: 28pt;
+}
+
+.experience h4 {
+  font-family: 'Arimo', sans-serif;
+  font-weight: lighter;
+  font-size: 23pt;
+  border-top: solid;
+  border-width: 2px;
+  border-color: #0D4B6E ;
+}
+
+.experience h5 {
+  font-family: 'Libre Baskerville', serif;
+  font-style: italic;
+  font-size: 16pt;
+  color: #BB1F25;
+  border-bottom: solid;
+  border-width: 5px;
+  border-color: #0D4B6E;
+
+}
