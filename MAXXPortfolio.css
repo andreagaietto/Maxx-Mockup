@@ -42,3 +42,7 @@
   border-color: #0D4B6E;
 
 }
+
+.logo img {
+  max-width: 100%;
+}
