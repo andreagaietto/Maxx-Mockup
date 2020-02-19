@@ -47,7 +47,9 @@
   max-width: 100%;
 }
 
-.img-fluid {
+.test {
+  width: auto;
+  height: 10em;
   max-width: 100%;
-  height: auto;
+  min-width: 100%;
 }
