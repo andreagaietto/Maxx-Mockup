@@ -12,6 +12,17 @@
   font-size: 20pt;
 }
 
+#centerTron {
+  background-image: url('Media/Hero1.jpg'); 
+  height: 35em; 
+  width: 100%; 
+  background-size: cover; 
+  margin-top: 10px; 
+  border-radius: 0px;
+  background-position: center;
+}
+
+
 #footer {
   background-color: #3D3D3D;
   color: white;
@@ -59,3 +70,4 @@
   max-width: 100%;
   min-width: 100%;
 }
+
